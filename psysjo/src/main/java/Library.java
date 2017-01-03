@@ -6,6 +6,8 @@
  */
 public class Library {
     public boolean someLibraryMethod() {
+    	System.out.println("what a nice code");
+    	
         return true;
     }
 }
