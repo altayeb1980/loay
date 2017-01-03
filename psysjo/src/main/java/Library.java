@@ -18,8 +18,6 @@ import com.progressoft.Interface9;
 public class Library implements Interface1,Interface2,Interface3,Interface4,Interface5,Interface6,Interface7,Interface8,Interface9,Interface10{
     public boolean someLibraryMethod() {
     	System.out.println("what a nice code");
-    	System.out.println("re test me again pl....");
-    	
         return true;
     }
 }
